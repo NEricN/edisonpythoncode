@@ -1,6 +1,3 @@
-from gui.gui import *
-from gui.KeyManager import *
-from robot.command import *
 from thread import *
 from Queue import Queue
 from gamepad.controller import RobotController
